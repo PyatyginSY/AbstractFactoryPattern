@@ -1,0 +1,13 @@
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.exe
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.deps.json
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.json
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.runtimeconfig.dev.json
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\bin\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csprojAssemblyReference.cache
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfoInputs.cache
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.AssemblyInfo.cs
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.csproj.CoreCompileInputs.cache
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.dll
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.pdb
+D:\03 Разработки\C#\Patterns\AbstractFactoryPattern\obj\Debug\netcoreapp3.1\AbstractFactoryPattern.genruntimeconfig.cache
